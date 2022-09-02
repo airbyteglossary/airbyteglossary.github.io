@@ -1,4 +1,4 @@
-# Actual Documentation Repo!
+# Actual Glossary Repo!
 
 ## Fun facts
 
